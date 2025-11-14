@@ -44,10 +44,10 @@ public class Main {
 
 ## OUTPUT:
 
-
-<img src="//Screenshot 2025-11-13 161156.png"/>
+<img src="https://github.com/yashwanthk369/19AI307_ODD-25-26-/tree/ddec3465a145d7d5391df7cb838bfcb7c74659e2/19AI307_JAVA(25-26)/Module-01/DAY-3/Screenshot 2025-11-13 161156.png" />
 
 ## RESULT:
+
 
 
 
