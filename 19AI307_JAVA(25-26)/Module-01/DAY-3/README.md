@@ -44,9 +44,10 @@ public class Main {
 
 ## OUTPUT:
 
-<img width="503" height="133" alt="image" src="https://github.com/yashwanthk369/19AI307_ODD-25-26-/tree/ddec3465a145d7d5391df7cb838bfcb7c74659e2/19AI307_JAVA(25-26)/Module-01/DAY-3/Screenshot 2025-11-13 161156.png" />
+<img width="527" height="205" alt="Screenshot 2025-11-14 135656" src="https://github.com/user-attachments/assets/ede84122-4b48-48c7-b29e-9c5a711d2e72" />
 
 ## RESULT:
+
 
 
 
