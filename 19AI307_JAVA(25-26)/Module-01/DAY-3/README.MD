@@ -44,8 +44,9 @@ public class Main {
 
 ## OUTPUT:
 
-
+<img src="19AI307_JAVA(25-26)/Module-01/DAY-3/Screenshot 2025-11-13 161156.png">
 
 ## RESULT:
+
 
 
