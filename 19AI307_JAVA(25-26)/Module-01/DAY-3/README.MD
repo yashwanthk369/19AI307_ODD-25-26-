@@ -44,10 +44,11 @@ public class Main {
 
 ## OUTPUT:
 
-#<img width="503" height="133" alt="image" src="https://github.com/user-attachments/assets/13738a14-1add-47fb-85fa-ade4e7f378ef" />
+
 <img src="//Screenshot 2025-11-13 161156.png"/>
 
 ## RESULT:
+
 
 
 
