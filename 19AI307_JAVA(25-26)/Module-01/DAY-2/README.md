@@ -58,8 +58,9 @@ public class Main {
 
 ## OUTPUT:
 
-
+<img width="666" height="237" alt="Screenshot 2025-11-13 152243" src="https://github.com/user-attachments/assets/443c3c16-0160-47fb-87e1-81e09e18072f" />
 
 ## RESULT:
 
 Thus the output is executed successfully.
+
