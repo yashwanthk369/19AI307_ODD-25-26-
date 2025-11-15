@@ -2,25 +2,27 @@
 
 ## QUESTION:
 
-a
-## AIM:
+Write a Java program to reverse a number using a while loop. For example, if the input is 1234, the output should be 4321
 
+## AIM:
+To reverse a given integer using a while loop in Java.
 
 ## ALGORITHM :
+
 1.	Start the program.
 2.	Import the necessary package 'java.util'
-3.	
-
-
-
-
+3.	Read the input number from the user.
+4.	Set rev = 0.
+5.	Use a while loop: extract last digit using num % 10, build reverse using rev = rev * 10 + digit, update num = num / 10.
+6.	Print the reversed number.
+7.	Stop the program.
 
 ## PROGRAM:
  ```
 /*
 Program to implement a Looping Statement using Java
-Developed by: 
-RegisterNumber:  
+Developed by: Yashwanth K
+RegisterNumber: 212224040369 
 */
 ```
 
@@ -48,6 +50,7 @@ public class Main {
 
 ## RESULT:
 
+Thus the output is executed successfully.
 
 
 
